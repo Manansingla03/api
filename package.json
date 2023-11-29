@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "i": "^0.3.7",
+    "uuid": "^9.0.1"
+  },
+  "scripts": {
+    "start": "node indexr",
+    "dev": "nodemon index"
+  },
+  "name": "g18_backend",
+  "version": "1.0.0",
+  "main": "node.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
